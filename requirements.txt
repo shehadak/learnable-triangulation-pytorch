@@ -20,3 +20,4 @@ tensorboardX
 torch
 torchvision
 h5py
+tqdm
